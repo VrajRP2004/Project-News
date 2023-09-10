@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Joe Burrow extension: Bengals make star QB highest-paid player in NFL history with five-year, $275M contract - CBS Sports",
+            "description": "Burrow's new deal also includes $219.01 million guaranteed",
+            "url": "https://www.cbssports.com/nfl/news/joe-burrow-extension-bengals-make-star-qb-highest-paid-player-in-nfl-history-with-five-year-275m-contract/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/08/43714cdf-c3ea-49d2-aa5d-da030cfd88d8/thumbnail/1200x675/b9991bcfb855b6713d9543d0d750d949/burrow-2g.jpg",
+            "publishedAt": "2023-09-08T03:49:00Z",
+            "content": "Joe Burrow is staying in Cincinnati for the long haul. The Ohio native and Pro Bowl quarterback has come to terms on a record-setting long-term deal with the Bengals, who selected him with the No. 1 … [+3762 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mary Gilbert",
+            "title": "Hurricane Lee rapidly strengthens to Category 5 storm as it approaches the Caribbean - CNN",
+            "description": "Hurricane Lee is expected to intensify further ahead of a precarious and uncertain northward turn that much of the East Coast will have to watch closely.",
+            "url": "https://www.cnn.com/2023/09/07/weather/hurricane-lee-path-atlantic-caribbean-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907073519-visible-satellite-lee-thursday-am-090723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T03:46:00Z",
+            "content": "Hurricane Lee has strengthened into a major Category 5 storm, packing maximum sustained wind speeds of 160 mph as it spins over the Atlantic well east of the Caribbean, the National Hurricane Center … [+3577 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam Teicher, Eric Woodyard",
+            "title": "Goff and the Lions stun Mahomes and the Chiefs at home - ESPN - ESPN",
+            "description": "The Chiefs were without their top two pass-rushers and Mahomes' favorite target in tight end Travis Kelce.",
+            "url": "https://www.espn.com/nfl/story/_/id/38349585/goff-lions-stun-mahomes-chiefs-home",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0908%2Fr1221449_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-09-08T03:23:00Z",
+            "content": "KANSAS CITY, Mo. -- The Detroit Lions marched into Arrowhead Stadium on Thursday night and upset the reigning Super Bowl champion Kansas City Chiefs, 21-20 in the NFL season opener.\r\nDetroit Lions\r\nT… [+3169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Riley Hoffman",
+            "title": "Country star Zach Bryan arrested in Oklahoma: Police - ABC News",
+            "description": "Records show Bryan was arrested for obstruction of an investigation.",
+            "url": "https://abcnews.go.com/Entertainment/country-star-zach-bryan-arrested-police/story?id=103016994",
+            "urlToImage": "https://i.abcnewsfe.com/a/789abe45-b2b8-4e4c-b528-3478c2f4ad42/image_1694141594075_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-08T02:49:38Z",
+            "content": "Country music star Zach Bryan was arrested Thursday night, according to the Craig County Sheriff's Office in Oklahoma.\r\nAccording to online records from Craig County, Bryan was arrested around 6:40 p… [+559 chars]"
+        }
+    ]
+}
