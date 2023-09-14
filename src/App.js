@@ -28,7 +28,7 @@ export default class App extends Component {
         progress={this.state.progress}
         />
         <Routes>
-          <Route path="/React-My-News/" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}   key="general" pageSize={cardnumber} country="in" category="General"/>}></Route>
+          <Route path="/My-News-React-App" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}   key="general" pageSize={cardnumber} country="in" category="General"/>}></Route>
           <Route path="/Business" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}  key="Business" pageSize={cardnumber} country="in" category="Business"/>}></Route>
           <Route path="/Entertainment" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}  key="Entertainment" pageSize={cardnumber} country="in" category="Entertainment"/>}></Route>
           <Route path="/General" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}  key="general" pageSize={cardnumber} country="in" category="General"/>}></Route>
