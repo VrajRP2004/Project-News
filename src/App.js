@@ -2,7 +2,6 @@ import './App.css';
 import React, { Component } from 'react'
 import Navbar from './components/Navbar';
 import Mynew from './components/Mynew';
-const cors = required("cors");
 import {
   BrowserRouter as Router,
   Routes,
@@ -29,8 +28,8 @@ export default class App extends Component {
         color='white'
         progress={this.state.progress}
         />
-        <Routes basename="/NewsProject">
-          <Route path="/NewsProject/" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}   key="general" pageSize={cardnumber} country="in" category="General"/>}></Route>
+        <Routes basename="/Project-News">
+          <Route path="/Project-News/" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}   key="general" pageSize={cardnumber} country="in" category="General"/>}></Route>
           <Route path="/Business" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}  key="Business" pageSize={cardnumber} country="in" category="Business"/>}></Route>
           <Route path="/Entertainment" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}  key="Entertainment" pageSize={cardnumber} country="in" category="Entertainment"/>}></Route>
           <Route path="/General" element={<Mynew setProgress={this.setProgress} apiKey={this.apiKey}  key="general" pageSize={cardnumber} country="in" category="General"/>}></Route>
